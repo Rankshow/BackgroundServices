@@ -1,0 +1,14 @@
+C:\Users\Micheal\BackgroundService\bin\Debug\net7.0\BackgroundService.exe
+C:\Users\Micheal\BackgroundService\bin\Debug\net7.0\BackgroundService.deps.json
+C:\Users\Micheal\BackgroundService\bin\Debug\net7.0\BackgroundService.runtimeconfig.json
+C:\Users\Micheal\BackgroundService\bin\Debug\net7.0\BackgroundService.dll
+C:\Users\Micheal\BackgroundService\bin\Debug\net7.0\BackgroundService.pdb
+C:\Users\Micheal\BackgroundService\obj\Debug\net7.0\BackgroundService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micheal\BackgroundService\obj\Debug\net7.0\BackgroundService.AssemblyInfoInputs.cache
+C:\Users\Micheal\BackgroundService\obj\Debug\net7.0\BackgroundService.AssemblyInfo.cs
+C:\Users\Micheal\BackgroundService\obj\Debug\net7.0\BackgroundService.csproj.CoreCompileInputs.cache
+C:\Users\Micheal\BackgroundService\obj\Debug\net7.0\BackgroundService.dll
+C:\Users\Micheal\BackgroundService\obj\Debug\net7.0\refint\BackgroundService.dll
+C:\Users\Micheal\BackgroundService\obj\Debug\net7.0\BackgroundService.pdb
+C:\Users\Micheal\BackgroundService\obj\Debug\net7.0\BackgroundService.genruntimeconfig.cache
+C:\Users\Micheal\BackgroundService\obj\Debug\net7.0\ref\BackgroundService.dll
